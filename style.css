@@ -1,3 +1,5 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(233, 233, 233);
 }
+
+canvas { border: 1px solid black; }
